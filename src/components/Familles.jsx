@@ -5,7 +5,7 @@ const Familles = () => {
   return (
     <div>
       <article className="section fammille" id="famille">
-        <Title title="Hiérachie de la " subTitle="Famille" />
+        <Title title="Arbre  " subTitle="généalogique" />
         <div className="section-center center-famille">
           {familles.map((famille) => {
             // console.log(famille.sous.map((el) => console.log(el.sousParent)));
