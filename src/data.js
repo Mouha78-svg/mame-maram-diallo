@@ -62,7 +62,7 @@ export const familles = [
   {
     id: 5,
     parentName: "Dado Diallo",
-    fils: ["Baye Diallo", "Fatou Diarra", "Amadou Diaw", "Penda Fall"],
+    fils: ["Baye Diallo", "Fatou Diarra", "Amadou Diarra", "Penda Fall"],
   },
   {
     id: 6,
@@ -143,7 +143,7 @@ export const sousFilsAbdouNdiaye = [
   },
   {
     id: 4,
-    sousParent: "Maréme Ndiaye De Dado",
+    sousParent: "Mariéme Ndiaye Dite Dado",
     sousFils: [
       "Ndeye Fatou Diop",
       "Elhadj Diop",
@@ -201,23 +201,7 @@ export const sousFilsAbdouNdiaye = [
   },
   {
     id: 9,
-    sousParent: "Dado Ndiaye",
-    sousFils: ["Pas d'information pour le moment"],
-  },
-  {
-    id: 10,
     sousParent: "Assane Ndiaye",
-    sousFils: ["Pas d'information pour le moment"],
+    sousFils: ["Sans fils"],
   },
 ];
-
-// "Ousmane Ndiaye",
-//       "Doudou Ndiaye",
-//       "Fatou Ndiaye",
-//       "Maréme Ndiaye De Dado",
-//       "Carro Ndiaye",
-//       "Oulimata Ndiaye",
-//       "Ndeye maram Ndiaye",
-//       "Binta Ndiaye",
-//       "Dado Ndiaye",
-//       "Assane Ndiaye",
